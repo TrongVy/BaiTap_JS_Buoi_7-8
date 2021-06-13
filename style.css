@@ -1,0 +1,14 @@
+.header{
+    width: 70%;
+    margin: 0 auto;
+    text-align: center;
+    padding: 20px;
+}
+.header input {
+    padding: 3px 20px;
+    width: 300px;
+}
+.row{
+    padding: 0;
+    margin: 0;
+}
